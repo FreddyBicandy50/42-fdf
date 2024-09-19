@@ -17,7 +17,7 @@ All programs that you wrote until now were executed in text mode on your termina
 ## Usage
 ``make`` to compile mandatory + Bonus part.
 
-``./fdf maps/map_name.fdf`
+``./fdf maps/map_name.fdf``
 
 ## Guides
 The most interesting part of any project is the research that goes behind it. If you are a student, please don't miss out on that opportunity by simply following guides such as these. In any case, they should under no circumstances be your only source of information about this project. Try things, fail, research, try again and succeed! And maybe write your own guide about it. Writing really is the best way to learn.
